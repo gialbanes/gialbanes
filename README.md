@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 Técnica em Desenvolvimento de Sistemas pela ETEC Registro 
 - 💻 Cursando Desenvolvimento de Software Multiplataforma na FATEC Registro
-- 👜 Estagiária de DevSecOps na Compass UOL
+- 👜 Desenvolvedora Back-end Júnior em Java
 
 ##
 
