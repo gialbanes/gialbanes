@@ -6,11 +6,6 @@
 
 ##
 
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gialbanes&show_icons=true&count_private=true&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=c9d1d9&bg_color=0d1117" alt="Giovana Albanês github stats" /> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gialbanes&layout=compact&hide_border=true&title_color=FFB6C1&text_color=FFB6C1&bg_color=0d1117" />
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
